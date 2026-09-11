@@ -175,11 +175,11 @@ with a focus on:
 
 I'm always interested in connecting with fellow QA professionals, developers and engineering teams.
 
-📫 **Email:** [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
+📫 **Email:** [YOUR_EMAIL@example.com](mailto:kcvinayachar14@gmail.com)
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [Connect with me](linkedin.com/in/vinay-kc-48578a219/)
 
-🐙 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+🐙 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/kcvinay-11)
 
 ---
 
