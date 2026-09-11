@@ -296,13 +296,11 @@ with a focus on:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kcvinay-11&show_icons=true&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=kcvinay-11&show_icons=true&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcvinay-11&layout=compact&hide_border=true" />
 
 </p>
-
----
 
 ## 📫 Connect With Me
 
