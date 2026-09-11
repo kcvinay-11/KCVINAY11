@@ -1,27 +1,31 @@
-# 👋 Hi, I'm Vinay KC
+# Hi there 👋, I'm Vinay KC
 
-### 🚀 Automation QE | SDET | Java | Selenium | TestNG | Jenkins
+### 🧪 QA Automation Engineer | Java | Selenium | TestNG | API Testing | Jenkins
 
-**Quality Engineering professional focused on building reliable, scalable and maintainable test automation solutions.**
+📍 Bengaluru, Karnataka
+💼 **4 Years of QA Automation & Testing Experience**
 
-I specialize in **Java-based UI automation, test framework development, CI/CD integration and automated regression testing**.
+I'm a **QA Automation Engineer** with experience in manual and automation testing, focused on building reliable and scalable test automation solutions using **Java, Selenium WebDriver, TestNG, Maven and Jenkins**.
+
+I have hands-on experience developing **POM-based automation frameworks**, automating end-to-end workflows, integrating test suites with Jenkins CI pipelines, and performing functional, regression, integration and system testing in Agile/Scrum environments.
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```text
-🔹 Quality Engineering & Test Automation
-🔹 Java + Selenium WebDriver
-🔹 TestNG & Automation Frameworks
-🔹 Jenkins & CI/CD
-🔹 Maven & Git
-🔹 REST API Testing
-🔹 Windows & Linux
-🔹 Test Reporting & Failure Analysis
-```
-
-I'm passionate about improving software quality through **smart automation, reusable frameworks and continuous testing**.
+* 🧪 4 years of experience in **QA Automation & Software Testing**
+* ☕ Building automation solutions using **Java**
+* 🌐 UI automation with **Selenium WebDriver**
+* 🔬 Test automation using **TestNG & Maven**
+* 🏗️ Experience developing **Page Object Model (POM) frameworks**
+* ⚙️ Jenkins CI/CD integration for automated test execution
+* 🔌 REST API testing using **Postman & REST Assured**
+* 📊 Experience with functional, regression, integration, system and sanity testing
+* 🐛 Defect management and root-cause analysis using **Jira**
+* 🖥️ Windows & Linux environments including **RHEL and SUSE**
+* ☁️ Microsoft Azure & VMware virtualization
+* 🤖 Using **ChatGPT, Claude and Windsurf** to accelerate automation development and troubleshooting
+* 🔄 Experienced in **Agile/Scrum** environments
 
 ---
 
@@ -29,90 +33,143 @@ I'm passionate about improving software quality through **smart automation, reus
 
 ### 💻 Programming
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
 ### 🧪 Automation & Testing
 
-<p>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-Testing-6DB33F?style=for-the-badge"/>
-</p>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge\&logo=testng\&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge\&logo=apachejmeter\&logoColor=white)
 
-### ⚙️ Build & CI/CD
+### ⚙️ CI/CD & Build
 
-<p>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-</p>
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
 
-### 🔧 Version Control & Platforms
+### 🔧 Version Control
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+### ☁️ Cloud & Virtualization
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge\&logo=vmware\&logoColor=white)
+
+### 🖥️ Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### 📋 Test & Project Management
+
+`Jira` `qTest` `Confluence`
 
 ---
 
 ## 🧪 Automation Expertise
 
-### 🔬 Testing
+### UI Automation
 
-* ✅ UI Test Automation
-* ✅ Functional Testing
-* ✅ Regression Testing
-* ✅ Smoke Testing
-* ✅ Cross-browser Testing
-* ✅ Data-driven Testing
-* ✅ API Testing
+* Selenium WebDriver
+* Page Object Model (POM)
+* Data-Driven Testing
+* Cross-Browser Testing
+* Dynamic Element Handling
+* Explicit Waits
+* Reusable Automation Utilities
+* End-to-End Workflow Automation
 
-### 🏗️ Framework Development
+### TestNG
 
-* ✅ Page Object Model
-* ✅ TestNG DataProviders
-* ✅ Parallel Test Execution
-* ✅ Reusable Automation Utilities
-* ✅ Explicit Waits
-* ✅ Dynamic Element Handling
-* ✅ Screenshot Capture
-* ✅ Test Reporting
+* TestNG Annotations
+* DataProviders
+* Assertions
+* Test Suites
+* Parallel Execution
+* Automated Regression Execution
 
-### 🔄 CI/CD
+### API Testing
 
-* ✅ Jenkins Pipeline Integration
-* ✅ Maven Build Automation
-* ✅ Git-based Test Execution
-* ✅ Automated Regression Runs
-* ✅ Build Failure Analysis
+* REST APIs
+* GET / POST / PUT / DELETE
+* HTTP Status Codes
+* Headers
+* JSON Validation
+* Postman
+* REST Assured
+
+### CI/CD
+
+* Jenkins CI Pipelines
+* Maven
+* Git
+* Automated Sanity Execution
+* Automated Regression Execution
+* Test Reporting
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 HCL Technologies
+
+**Senior Software Engineer — QA Automation**
+
+📍 Bengaluru | **Sep 2022 – Present**
+
+Working on enterprise software products including:
+
+* **Dell Storage Resource Manager (SRM)**
+* **Dell Data Protection Advisor (DPA)**
+
+### Key Contributions
+
+🔹 Built a **Java + Selenium WebDriver + TestNG + Maven + POM automation framework from scratch**.
+
+🔹 Automated **Solution Pack installation and Device Discovery workflows** for repeatable end-to-end validation across multiple Solution Pack configurations.
+
+🔹 Integrated automation suites with **Jenkins CI pipelines** for automated Sanity and regression execution.
+
+🔹 Reduced manual testing effort by approximately **30%** through automation.
+
+🔹 Created, maintained and executed **100+ test cases** aligned with business requirements and acceptance criteria.
+
+🔹 Performed functional, regression, integration, system and sanity testing.
+
+🔹 Performed detailed log analysis and troubleshooting for application and system issues.
+
+🔹 Worked with Windows and Linux virtual machines in **VMware Hypervisor** environments.
+
+🔹 Installed, configured and validated **SUSE SLES 15 SP4** environments for testing and validation.
+
+🔹 Collaborated with developers, business analysts and product teams during defect investigation and release validation.
+
+🔹 Worked in an **Agile Scrum** environment.
 
 ---
 
 ## 🚀 Featured Projects
 
-> A collection of automation projects demonstrating practical QA engineering and test automation skills.
+### 🧪 Java Selenium Automation Framework
 
-### 🧪 Selenium Automation Framework
+**Java • Selenium WebDriver • TestNG • Maven • POM**
 
-**Java • Selenium WebDriver • TestNG • Maven**
+A scalable automation framework demonstrating enterprise-style UI automation practices.
 
-A scalable UI automation framework designed for functional and regression testing.
-
-**Key Features**
+**Highlights**
 
 * Page Object Model
 * Data-driven testing
 * TestNG DataProviders
-* Parallel execution
+* Reusable utilities
 * Explicit waits
 * Dynamic element handling
+* Parallel execution
 * Screenshot capture
 * Test reporting
-* Reusable utilities
 
 🔗 **[View Repository →](#)**
 
@@ -120,17 +177,18 @@ A scalable UI automation framework designed for functional and regression testin
 
 ### 🔌 REST API Automation
 
-**Java • REST API • TestNG**
+**Java • REST Assured • TestNG**
 
-Automation framework for validating REST APIs and improving regression coverage.
+API automation demonstrating validation of REST services and automated regression testing.
 
-**Key Features**
+**Highlights**
 
-* API request/response validation
+* GET / POST / PUT / DELETE
 * HTTP status validation
-* Response validation
+* Headers validation
+* JSON response validation
 * Reusable API utilities
-* Automated regression testing
+* TestNG integration
 
 🔗 **[View Repository →](#)**
 
@@ -140,107 +198,97 @@ Automation framework for validating REST APIs and improving regression coverage.
 
 **Jenkins • Maven • Git • TestNG**
 
-CI/CD pipeline for automatically executing automated test suites.
+CI/CD automation demonstrating automated execution of test suites through Jenkins.
 
-**Key Features**
+**Highlights**
 
-* Automated test execution
-* Parameterized builds
+* Jenkins pipeline
 * Maven integration
 * TestNG suite execution
+* Parameterized execution
+* Automated regression testing
 * Test reporting
-* Build failure analysis
 
 🔗 **[View Repository →](#)**
 
 ---
 
-## 📐 Automation Approach
+## 🖥️ Environment & Infrastructure
+
+I also work with test environments involving:
 
 ```text
-Requirement
-     │
-     ▼
-Test Analysis
-     │
-     ▼
-Automation Design
-     │
-     ▼
-Java + Selenium
-     │
-     ▼
-TestNG Execution
-     │
-     ▼
-Maven Build
-     │
-     ▼
-Jenkins Pipeline
-     │
-     ▼
-Reports & Analysis
-     │
-     ▼
-Continuous Improvement
+Windows
+   │
+   ├── VMware
+   │
+   └── Application Validation
+          │
+          ▼
+Linux
+   ├── RHEL
+   └── SUSE / SLES
+          │
+          ▼
+Testing & Troubleshooting
+          │
+          ▼
+Automation + Jenkins
 ```
 
 ---
 
-## 💡 Engineering Principles
+## 🤖 AI-Assisted Engineering
 
-> **"Good automation is not about writing more tests. It's about creating reliable tests that provide fast and useful feedback."**
+I use modern AI tools to improve automation development and engineering productivity.
 
-I focus on:
+### Tools
 
-* 🏗️ Maintainable framework architecture
-* ♻️ Reusable automation components
-* ⚡ Faster test execution
-* 🐛 Reducing flaky tests
-* 🔍 Easy failure diagnosis
-* 📈 Improving automation coverage
-* 🔄 Continuous testing through CI/CD
+`ChatGPT` `Claude` `Windsurf`
+
+### Use Cases
+
+* 💡 Generating automation scenarios
+* 🧪 Creating test cases
+* ☕ Accelerating Java development
+* 🐛 Troubleshooting automation failures
+* 🔍 Log analysis
+* ⚡ Optimizing test scripts
+* 🏗️ Improving automation framework design
 
 ---
 
-## 🔭 Currently Working On
+## 📜 Certifications
 
-* 🧪 Improving Selenium automation frameworks
-* ⚙️ Jenkins-based CI/CD automation
-* ☕ Advanced Java for test automation
+* 🏆 **Information Storage and Management v5** — Dell Technologies | Jan 2025
+* 🏆 **Microsoft Azure Fundamentals (AZ-900)** — Microsoft | Apr 2024
+* 🏆 **Excel Basics** — Wall Street Prep | Jan 2025
+* 🏆 **Analyzing Financial Reports** — Wall Street Prep | Jan 2025
+* 🏆 **US GAAP & IFRS: Financial Reporting Differences** — Wall Street Prep | Jan 2025
+
+---
+
+## 📈 Currently Focused On
+
+* 🧪 Advanced test automation
+* 🏗️ Scalable automation framework design
+* ⚙️ CI/CD automation with Jenkins
 * 🔌 API automation
-* 📊 Improving automated test reporting
-* 🏗️ Building reusable automation utilities
+* 🤖 AI-assisted testing
+* ☕ Advanced Java
+* 📊 Improving test reporting and debugging
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Career Goals
 
-```text
-Advanced Java
-     ↓
-Automation Framework Design
-     ↓
-API Automation
-     ↓
-CI/CD
-     ↓
-Docker & Containers
-     ↓
-Modern SDET Practices
-```
-
----
-
-## 🎯 Career Interests
-
-I'm interested in opportunities such as:
+I'm interested in opportunities involving:
 
 **SDET • Automation QE • QA Automation Engineer • Test Automation Engineer**
 
-### Core Skills
+with a focus on:
 
-`Java` `Selenium` `TestNG` `Jenkins` `Maven` `Git` `REST API` `CI/CD`
+`Java` • `Selenium` • `TestNG` • `Jenkins` • `API Testing` • `CI/CD`
 
 ---
 
@@ -256,17 +304,7 @@ I'm interested in opportunities such as:
 
 ---
 
-## 🏆 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kcvinay-11&hide_border=true" />
-
-</p>
-
----
-
-## 🤝 Let's Connect
+## 📫 Connect With Me
 
 <p align="center">
 
@@ -288,4 +326,4 @@ I'm interested in opportunities such as:
 
 ### ⭐ Thanks for visiting my profile!
 
-**Building better software through smarter automation. 🧪 🚀**
+**Automate. Improve. Deliver Quality. 🧪 🚀**
