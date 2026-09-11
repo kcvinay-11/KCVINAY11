@@ -81,19 +81,19 @@ Automated Reports
 
 ### Areas I Work With
 
-✅ UI Test Automation
-✅ Regression Automation
-✅ Smoke Testing
-✅ Functional Testing
-✅ Cross-browser Testing
-✅ Data-driven Testing
-✅ TestNG DataProviders
-✅ Parallel Test Execution
-✅ Page Object Model
-✅ Reusable Automation Components
-✅ CI/CD Test Execution
-✅ Test Reporting
-✅ Debugging Automation Failures
+* ✅ UI Test Automation
+* ✅ Regression Automation
+* ✅ Smoke Testing
+* ✅ Functional Testing
+* ✅ Cross-browser Testing
+* ✅ Data-driven Testing
+* ✅ TestNG DataProviders
+* ✅ Parallel Test Execution
+* ✅ Page Object Model
+* ✅ Reusable Automation Components
+* ✅ CI/CD Test Execution
+* ✅ Test Reporting
+* ✅ Debugging Automation Failures
 
 ---
 
@@ -104,6 +104,7 @@ Automated Reports
 A Java-based Selenium automation framework designed for scalable and maintainable UI test automation.
 
 **Tech:**
+
 `Java` `Selenium WebDriver` `TestNG` `Maven`
 
 **Key Features:**
@@ -123,6 +124,7 @@ A Java-based Selenium automation framework designed for scalable and maintainabl
 Integration of automated test suites with Jenkins for continuous test execution.
 
 **Tech:**
+
 `Jenkins` `Maven` `Git` `Java` `TestNG`
 
 **Key Features:**
@@ -140,6 +142,7 @@ Integration of automated test suites with Jenkins for continuous test execution.
 Automation of REST API validation to improve regression coverage and reduce manual testing effort.
 
 **Tech:**
+
 `Java` `REST API` `Test Automation`
 
 ---
@@ -175,11 +178,11 @@ with a focus on:
 
 I'm always interested in connecting with fellow QA professionals, developers and engineering teams.
 
-📫 **Email:** [YOUR_EMAIL@example.com](mailto:kcvinayachar14@gmail.com)
+📫 **Email:** [kcvinayachar14@gmail.com](mailto:kcvinayachar14@gmail.com)
 
-💼 **LinkedIn:** [Connect with me](linkedin.com/in/vinay-kc-48578a219/)
+💼 **LinkedIn:** [https://linkedin.com/in/vinay-kc-48578a219/]
 
-🐙 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/kcvinay-11)
+🐙 **GitHub:** [github.com/kcvinay-11](https://github.com/kcvinay-11)
 
 ---
 
