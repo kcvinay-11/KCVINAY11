@@ -1,193 +1,207 @@
-# Hi, I'm Vinay 👋
+# 👋 Hi, I'm Vinay KC
 
-### 🚀 Automation QE | Java | Selenium | TestNG | Jenkins
+### 🚀 Automation QE | SDET | Java | Selenium | TestNG | Jenkins
 
-I'm a **Quality Engineering / Test Automation professional** passionate about building reliable, maintainable and scalable automation solutions.
+**Quality Engineering professional focused on building reliable, scalable, and maintainable test automation solutions.**
 
-I work primarily with **Java, Selenium, TestNG and Jenkins**, with a strong interest in improving test automation, CI/CD pipelines and overall software quality.
+I specialize in **Java-based UI automation**, test framework development, CI/CD integration, and automation of repetitive validation workflows.
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-* 🔭 Currently working in **Quality Engineering & Test Automation**
-* 🧪 Building and maintaining **UI automation frameworks**
-* ☕ Strong focus on **Java-based automation**
-* 🌐 Experienced with **Selenium WebDriver**
-* 🧩 Working with **TestNG, Maven and Git**
-* ⚙️ Integrating automated tests with **Jenkins CI/CD**
-* 🖥️ Experience working with **Windows/Linux environments**
-* 🚀 Interested in **SDET, Automation QE and Test Automation Engineering**
-* 📚 Continuously learning new tools and better automation practices
+* 🔹 Automation QE / Test Automation Engineer
+* ☕ Java-based test automation
+* 🌐 Selenium WebDriver
+* 🧪 TestNG & automation framework development
+* ⚙️ Jenkins & CI/CD
+* 📦 Maven & Git
+* 🔌 REST API testing
+* 🖥️ Windows & Linux environments
+* 📊 Test reporting & failure analysis
+* 🚀 Interested in **SDET / Automation QE opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming
+<p align="left">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-Testing-6DB33F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-### Automation & Testing
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge\&logo=testng\&logoColor=white)
-
-### Build & CI/CD
-
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-
-### Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-### Other
-
-* REST API Testing
-* SQL
-* Windows Automation
-* Linux
-* Shell/Batch Scripting
-* CI/CD
-* Test Framework Design
+</p>
 
 ---
 
 ## 🧪 Automation Expertise
 
 ```text
-Manual Testing
-      │
-      ▼
-Test Case Analysis
-      │
-      ▼
-Automation Design
-      │
-      ▼
-Java + Selenium + TestNG
-      │
-      ▼
-Maven Build
-      │
-      ▼
-Jenkins CI/CD
-      │
-      ▼
-Automated Reports
+                Test Analysis
+                     │
+                     ▼
+              Automation Design
+                     │
+                     ▼
+             Java + Selenium
+                     │
+                     ▼
+               TestNG Suite
+                     │
+                     ▼
+             Maven Build/Test
+                     │
+                     ▼
+              Jenkins CI/CD
+                     │
+                     ▼
+            Reports & Analysis
 ```
 
-### Areas I Work With
+### 🔬 Testing & Automation
 
 * ✅ UI Test Automation
-* ✅ Regression Automation
-* ✅ Smoke Testing
+* ✅ Regression & Smoke Testing
 * ✅ Functional Testing
 * ✅ Cross-browser Testing
 * ✅ Data-driven Testing
 * ✅ TestNG DataProviders
 * ✅ Parallel Test Execution
 * ✅ Page Object Model
-* ✅ Reusable Automation Components
+* ✅ Reusable Automation Utilities
+* ✅ Explicit Waits & Dynamic Elements
+* ✅ Screenshot & Test Reporting
 * ✅ CI/CD Test Execution
-* ✅ Test Reporting
-* ✅ Debugging Automation Failures
+* ✅ Automation Failure Analysis
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 Selenium Automation Framework
+### 🟢 Selenium Automation Framework
 
-A Java-based Selenium automation framework designed for scalable and maintainable UI test automation.
+**Java • Selenium WebDriver • TestNG • Maven**
 
-**Tech:**
+A maintainable UI automation framework designed for scalable regression and functional testing.
 
-`Java` `Selenium WebDriver` `TestNG` `Maven`
-
-**Key Features:**
+**Highlights**
 
 * Page Object Model
-* Reusable utilities
-* Explicit waits
+* Reusable automation utilities
+* Data-driven execution
 * TestNG configuration
-* Data-driven testing
+* Parallel execution
+* Explicit waits
 * Screenshot capture
 * Test reporting
 
+➡️ **[View Project](#)**
+
 ---
 
-### 🔹 Jenkins Automation Pipeline
+### 🔵 API Automation Framework
 
-Integration of automated test suites with Jenkins for continuous test execution.
+**Java • REST API • Test Automation**
 
-**Tech:**
+Automated REST API validation for functional and regression testing.
 
-`Jenkins` `Maven` `Git` `Java` `TestNG`
+**Highlights**
 
-**Key Features:**
+* API request/response validation
+* Status-code verification
+* Response validation
+* Reusable API utilities
+* Automated regression coverage
+
+➡️ **[View Project](#)**
+
+---
+
+### 🟠 Jenkins CI/CD Automation
+
+**Jenkins • Maven • Git • TestNG**
+
+Integration of automated test suites into CI/CD pipelines for continuous validation.
+
+**Highlights**
 
 * Automated test execution
 * Parameterized builds
+* Maven integration
+* TestNG execution
 * Test result reporting
-* Failure investigation
-* CI/CD integration
+* Failure analysis
+
+➡️ **[View Project](#)**
 
 ---
 
-### 🔹 API Automation
+## 💡 Engineering Focus
 
-Automation of REST API validation to improve regression coverage and reduce manual testing effort.
-
-**Tech:**
-
-`Java` `REST API` `Test Automation`
-
----
-
-## 📊 What I Care About
-
-> **"Automation should reduce repetitive work, increase confidence and make releases faster."**
+> **Build automation that makes testing faster, reliable, maintainable, and easier to debug.**
 
 I'm particularly interested in:
 
-* Building maintainable automation frameworks
-* Reducing flaky tests
-* Improving test execution time
-* Integrating testing into CI/CD
-* Increasing automation coverage
-* Making debugging easier for QE teams
+* 🏗️ Automation framework architecture
+* ⚡ Reducing test execution time
+* 🧩 Reusable automation components
+* 🔄 CI/CD integration
+* 🐛 Reducing flaky tests
+* 📈 Improving automation coverage
+* 🔍 Making failures easier to diagnose
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Career Interests
 
-I'm interested in opportunities involving:
+I'm interested in opportunities such as:
 
-**SDET | Automation QE | QA Automation Engineer | Test Automation Engineer**
+**SDET • Automation QE • QA Automation Engineer • Test Automation Engineer**
 
-with a focus on:
+### Core Focus
 
-`Java` • `Selenium` • `TestNG` • `Jenkins` • `CI/CD` • `API Testing`
+`Java` `Selenium` `TestNG` `Jenkins` `Maven` `Git` `API Testing` `CI/CD`
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+
+<a href="https://github.com/kcvinay-11">
+  <img src="https://github-readme-stats.vercel.app/api?username=kcvinay-11&show_icons=true&hide_border=true" />
+</a>
+
+<a href="https://github.com/kcvinay-11">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcvinay-11&layout=compact&hide_border=true" />
+</a>
+
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with fellow QA professionals, developers and engineering teams.
+<p align="left">
 
-📫 **Email:** [kcvinayachar14@gmail.com](mailto:kcvinayachar14@gmail.com)
+📧 **Email:** [kcvinayachar14@gmail.com](mailto:kcvinayachar14@gmail.com)
 
-💼 **LinkedIn:** https://linkedin.com/in/vinay-kc-48578a219/
+💼 **LinkedIn:** [linkedin.com/in/vinay-kc-48578a219](https://linkedin.com/in/vinay-kc-48578a219/)
 
 🐙 **GitHub:** [github.com/kcvinay-11](https://github.com/kcvinay-11)
 
+</p>
+
 ---
 
-## ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
-If you find any of my automation projects useful, feel free to ⭐ the repository.
-
-**Happy Testing! 🧪 🚀**
+**Let's build better software through smarter automation. 🚀🧪**
