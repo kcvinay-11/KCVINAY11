@@ -180,7 +180,7 @@ I'm always interested in connecting with fellow QA professionals, developers and
 
 📫 **Email:** [kcvinayachar14@gmail.com](mailto:kcvinayachar14@gmail.com)
 
-💼 **LinkedIn:** [https://linkedin.com/in/vinay-kc-48578a219/]
+💼 **LinkedIn:** https://linkedin.com/in/vinay-kc-48578a219/
 
 🐙 **GitHub:** [github.com/kcvinay-11](https://github.com/kcvinay-11)
 
